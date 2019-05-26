@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+/var/www/html/bin/console app:twitter $@
